@@ -1,0 +1,22 @@
+---
+provisioner:
+  name: chef_solo
+  attributes:
+    data_bags_path: test/integration/data_bags
+
+platforms:
+  - name: ubuntu
+    driver:
+      name: vagrant
+      network:
+        - ["forwarded_port", {guest: 80, host: 8080} ]
+        - ["forwarded_port", {guest: 443, host: 8443}]
+      box: ubuntu/trusty64
+      provider: virtualbox
+      username: vagrant
+
+
+suites:
+  - name: helloworld
+    run_list:
+      - recipe[helloworld]

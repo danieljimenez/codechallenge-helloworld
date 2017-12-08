@@ -1,0 +1,142 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AntMissingPropertiesFileInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AutowiredDependenciesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CloneCallsSuperClone" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CloneInNonCloneableClass" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CloneableImplementsClone" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreCloneableDueToInheritance" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ContextComponentScanInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ContextJavaBeanUnresolvedMethodsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedBeanNamesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ELValidationInJSP" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="FlowRequiredBeanTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GwtInconsistentSerializableClass" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="embed" />
+            <item index="1" class="java.lang.String" itemvalue="nobr" />
+            <item index="2" class="java.lang.String" itemvalue="noembed" />
+            <item index="3" class="java.lang.String" itemvalue="comment" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="InjectionValueTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JSDeprecatedSymbols" enabled="false" level="INFO" enabled_by_default="false" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="true" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="" />
+    </inspection_tool>
+    <inspection_tool class="JdkProxiedBeanTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JpaModelErrorInspection" level="ERROR" enabled="false" />
+    <inspection_tool class="MVCPathVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonSerializableServiceParameters" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="OverridableMethodCallDuringObjectConstruction" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="OverriddenMethodCallDuringObjectConstruction" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myAdditionalRequiredHtmlAttributes" value="alt" />
+    </inspection_tool>
+    <inspection_tool class="RequiredBeanTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBatchModel" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanAttributesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanConstructorArgInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanDepedencyCheckInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanInstantiationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanLookupMethodInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringBeanNameConventionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringContextConfigurationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringDataJpaMethodInconsistencyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringElInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringFacetCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringFacetInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="checkTestFiles" value="false" />
+    </inspection_tool>
+    <inspection_tool class="SpringFacetProgrammaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringFactoryMethodInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringHandlersSchemasHighlighting" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringIncorrectResourceTypeInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringInjectionValueConsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringInjectionValueStyleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringIntegrationDeprecations21" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringIntegrationModel" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaAutowiredMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaConfigExternalBeansErrorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaConfigInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringMVCInitBinder" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringMVCViewInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringMessageDispatcherWebXmlInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringOsgiElementsInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringOsgiListenerInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringOsgiServiceCommonInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringPlaceholdersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringPublicFactoryMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringRequiredAnnotationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringRequiredPropertyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringScopesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringSecurityDebugActivatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringSecurityFiltersConfiguredInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringSecurityModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringStaticMembersAutowiringInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringTransactionalComponentInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpringWebServiceAnnotationsInconsistencyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringWebServicesConfigurationsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TrivialIf" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="UNCHECKED_WARNING" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessarySuperConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnparsedCustomBeanInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnresolvedMessageChannel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UtilSchemaInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="WebflowConfigModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="WebflowModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="WebflowSetupInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="groups">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="BrowserInfo" />
+            <item index="1" class="java.lang.String" itemvalue="BrowserInfowtf22" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
